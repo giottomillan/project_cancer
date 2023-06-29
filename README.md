@@ -1,5 +1,7 @@
 # Proyecto de Clasificación de Cáncer con Regresión Logística
 
+![Alt text](./images/corre_variables.png)
+
 Este proyecto se centra en entrenar un modelo de regresión logística para clasificar si un paciente tiene cáncer maligno o benigno. La columna "diagnosis" se utiliza como la variable objetivo del modelo.
 
 ## Descripción del Proyecto
@@ -25,3 +27,7 @@ El objetivo principal de este proyecto es desarrollar un modelo de clasificació
 Se logró mejorar significativamente la precisión y los resultados del modelo de regresión logística para la clasificación de cáncer. Sin embargo, también se experimentó con otros modelos y se encontró que el modelo de regresión logística fue el más efectivo en este caso.
 
 En conclusión, este proyecto demuestra la capacidad de la regresión logística para clasificar el cáncer y proporciona una base sólida para futuros desarrollos en el campo de la clasificación de enfermedades.
+
+![Texto alternativo](./images/output.png)
+![Texto alternativo](./images/output_random.png)
+![Texto alternativo](./images/output_SVM.png)
